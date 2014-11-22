@@ -1,1 +1,1 @@
-The repo consist the assignments and other stuff.
+The repo consist the assignments and other stuff..
